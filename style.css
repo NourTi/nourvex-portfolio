@@ -97,7 +97,6 @@ body{font-family:Inter,sans-serif;background:#F8F7F4;color:#1A1A2E;overflow-x:hi
 @media(min-width:768px){.hero-base-img,.hero-rev-img{background-position:50% 20%}}
 .hero-base-img{opacity:0;animation:heroImgIn 1.2s cubic-bezier(.25,.46,.45,.94) 1s forwards;filter:brightness(.95)contrast(1.05)}
 .hero-rev-img{z-index:7;pointer-events:none;filter:brightness(1.05)contrast(1.1)}
-.hero-nour-img{position:absolute;top:0;right:0;width:50%;height:100%;background-size:cover;background-repeat:no-repeat;background-position:50% 15%;z-index:6;opacity:0;animation:heroImgIn 1.2s cubic-bezier(.25,.46,.45,.94) 1s forwards;border-left:2px solid rgba(255,255,255,.15)}
 .creator-anim{transform:translateY(330px);animation:creatorSlideUp 1s cubic-bezier(.16,1,.3,1) forwards;animation-delay:1.5s}
 .hero-c{position:relative;z-index:8;display:flex;flex-direction:column;justify-content:flex-start;width:100%;max-width:1600px;margin:0 auto;padding:110px 16px 24px;pointer-events:none}
 @media(min-width:768px){.hero-c{position:absolute;inset:0;justify-content:space-between;padding:160px 40px 100px}}
