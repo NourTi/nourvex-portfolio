@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="f513c127-8294-42b4-8aa5-4a317468762a.jpeg" alt="NOURVEX Portfolio" width="200" style="border-radius: 20px;">
+  <img src="f513c127-8294-42b4-8aa5-4a317468762a.jpeg" alt="NOURVEX Portfolio" width="200">
 </p>
 
 <h1 align="center">NOURVEX</h1>
@@ -43,7 +43,7 @@ Created by **Nour Mohammed Abdessamed**, a passionate full-stack developer based
 
 <p align="center">
   <a href="https://nourti.github.io/nourvex-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20nourti.github.io%2Fnourvex--portfolio-2EC4B6?style=for-the-badge" alt="Live URL">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90-nourti.github.io%2Fnourvex--portfolio-2EC4B6?style=for-the-badge" alt="Live URL">
   </a>
 </p>
 
@@ -147,7 +147,6 @@ cd nourvex-portfolio
 
 # Open in your browser
 start index.html              # Windows
-open index.html               # macOS
 ```
 
 No build tools, no dependencies — just open and go.
@@ -169,8 +168,7 @@ No build tools, no dependencies — just open and go.
 
 - **Email**: [roykaabdou@yahoo.com](mailto:roykaabdou@yahoo.com)
 - **GitHub**: [@NourTi](https://github.com/NourTi)
-- **WhatsApp**: Available via the portfolio site
-- **Based in**: El-Baydhe, Algeria
+- **Location**: El-Baydhe, Algeria
 
 ---
 
