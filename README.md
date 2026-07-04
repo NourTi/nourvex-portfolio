@@ -1,6 +1,6 @@
 <p align="center">
   <img src="f513c127-8294-42b4-8aa5-4a317468762a.jpeg" alt="NOURVEX Portfolio" width="200">
-  <img src="nour-original.jpg" alt="Nour Mohammed Abdessamed — Original" width="200" style="margin-left:16px;border-radius:12px">
+  &nbsp;&nbsp;<img src="nour-original.jpg" alt="Nour Mohammed Abdessamed" width="200">
 </p>
 
 <h1 align="center">NOURVEX</h1>
