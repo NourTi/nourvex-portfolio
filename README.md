@@ -1,8 +1,8 @@
 # NOURVEX — From Vision to Digital Reality
 
-![NOURVEX Portfolio Preview](f513c127-8294-42b4-8aa5-4a317468762a.jpeg)
+**NOURVEX** (a fusion of "Nour" — light in Arabic, and "Vortex" — energy in motion) is a web development and digital solutions brand by **Nour Mohammed Abdessamed**, a full-stack developer based in El-Baydhe, Algeria. The name represents the convergence of creative vision and technical execution — turning ideas into powerful digital experiences.
 
-A modern, interactive portfolio website built for **NOURVEX**, a web development and digital solutions brand created by **Nour Mohammed Abdessamed** — a full-stack developer based in El-Baydhe, Algeria.
+![NOURVEX Portfolio Preview](f513c127-8294-42b4-8aa5-4a317468762a.jpeg)
 
 ## ✨ Features
 
@@ -42,11 +42,12 @@ A modern, interactive portfolio website built for **NOURVEX**, a web development
 ## 📂 Project Structure
 
 ```
-d:/website/
-├── index.html                          # Main single-page portfolio
-├── f513c127-8294-42b4-8aa5-4a317468762a.jpeg  # Hero profile photo
-├── README.md                           # This file
-└── .git/                               # Git repository
+.
+├── index.html        # Main single-page portfolio
+├── style.css         # All styles & animations
+├── script.js         # All JavaScript interactions
+├── f513c127-8294-42b4-8aa5-4a317468762a.jpeg      # Hero profile photo
+└── README.md         # This file
 ```
 
 ## 🚀 Getting Started
@@ -56,10 +57,15 @@ Simply open `index.html` in any modern browser:
 ```bash
 git clone https://github.com/NourTi/nourvex-portfolio.git
 cd nourvex-portfolio
-start index.html    # Windows
+start index.html
 ```
 
 No build tools, no dependencies.
+
+## 🌐 Live Demo
+
+The site is live on GitHub Pages:
+[https://nourti.github.io/nourvex-portfolio/](https://nourti.github.io/nourvex-portfolio/)
 
 ## 📬 Contact
 
@@ -68,4 +74,4 @@ No build tools, no dependencies.
 
 ---
 
-© 2026 NOURVEX — Created by Nour Mohammed Abdessamed.
+© 2026 NOURVEX &mdash; Created by Nour Mohammed Abdessamed.
